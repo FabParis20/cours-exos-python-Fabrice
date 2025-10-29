@@ -28,3 +28,4 @@ def find_numbers(mini, maxi):
 find_numbers(100,300)
 print(liste_soluces)
 
+

@@ -1,0 +1,693 @@
+{
+    "playlist": {
+        "@xmlns": "http://xspf.org/ns/0/",
+        "@xmlns:vlc": "http://www.videolan.org/vlc/playlist/ns/0/",
+        "@version": "1",
+        "title": "Playlist",
+        "trackList": {
+            "track": [
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/24%20-%20They%20Come%20Back%20%28Harvest%20Of%20Skulls%29%20%5BLive%5D.flac",
+                    "duration": "292120",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "0"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/07%20-%20Nailbomb%20-%20Cockroaches.mp3",
+                    "title": "Cockroaches",
+                    "creator": "Nailbomb",
+                    "album": "Point Blank",
+                    "trackNum": "7",
+                    "duration": "310388",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "1"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/ab-natural/catabase/04%20-%20invidia.mp3",
+                    "title": "Invidia",
+                    "creator": "Ab-Natural",
+                    "album": "CATABASE",
+                    "trackNum": "4",
+                    "image": "file:///home/phase/Music/ab-natural/catabase/cover.jpg",
+                    "duration": "278658",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "2"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/04%20-%20Cities%20Of%20Frost.flac",
+                    "duration": "335360",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "3"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/10-dance_with_the_dead-riser.mp3",
+                    "title": "Riser",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "10",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "219066",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "4"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/25%20-%20Your%20World%20Will%20Hate%20This%20%28Live%29.flac",
+                    "duration": "162333",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "5"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/21%20-%20The%20Ballad%20Of%20Solomon%20Eagle%20%28Live%29.flac",
+                    "duration": "193533",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "6"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/26%20-%20Blue%20Snow%20%28Live%29.flac",
+                    "duration": "255626",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "7"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/12%20-%20Scorpionica%20%28Live%2C%20Radio%20One%20Rock%20Show%29.flac",
+                    "duration": "202520",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "8"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/23%20-%20Round%20Up%20The%20Horses%20%28Live%29.flac",
+                    "duration": "347346",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "9"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/15%20-%20They%20Come%20Back%20%28Harvest%20Of%20Skulls%29%20%5BDemo%5D.flac",
+                    "duration": "309626",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "10"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/16%20-%20New%20Rose%20%28Demo%29.flac",
+                    "duration": "161080",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "11"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/18%20-%20Some%20You%20Win%2C%20Some%20You%20Lose%20%28Live%29.flac",
+                    "duration": "211933",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "12"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/11%20-%20They%20Come%20Back%20%28Harvest%20Of%20Skulls%29%20%5BLive%2C%20Radio%20One%20Rock%20Show%5D.flac",
+                    "duration": "286240",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "13"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/05%20-%20nazi-vlaams-fuck-off.mp3",
+                    "title": "Nazi vlaams Fuck Off",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "5",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "152772",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "14"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/ab-natural/catabase/03%20-%20les-eaux-du-l%C3%A9th%C3%A9.mp3",
+                    "title": "Les eaux du L\u00e9th\u00e9",
+                    "creator": "Ab-Natural",
+                    "album": "CATABASE",
+                    "trackNum": "3",
+                    "image": "file:///home/phase/Music/ab-natural/catabase/cover.jpg",
+                    "duration": "232949",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "15"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/04-dance_with_the_dead-midnight_never_ends.mp3",
+                    "title": "Midnight Never Ends",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "4",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "201198",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "16"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/02-dance_with_the_dead-dressed_to_kill.mp3",
+                    "title": "Dressed To Kill",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "2",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "264519",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "17"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/09%20-%20Beginners%20Guide%20To%20Suicide.flac",
+                    "duration": "489253",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "18"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/03%20-%20The%20Ale%20House%20Braves.flac",
+                    "duration": "230026",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "19"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/08-dance_with_the_dead-the_pitt.mp3",
+                    "title": "The Pitt",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "8",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "220241",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "20"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/02%20-%20Vagrant%20Stomp.flac",
+                    "duration": "250386",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "21"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/102-coconut_records-west_coast.mp3",
+                    "title": "West Coast",
+                    "creator": "Coconut Records",
+                    "album": "Les Inrockuptibles - 100 Tr\u00e9sors Cach\u00e9s CD2",
+                    "trackNum": "2",
+                    "annotation": "0000132A 0000141D 000079C8 000072DA 00015DFE 00021DA9 00008000 00008000 00013454 0000BFD7",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Coconut%20Records/Les%20Inrockuptibles%20-%20100%20Tr%C3%A9sors%20Cach%C3%A9s%20CD2/art.jpg",
+                    "duration": "211210",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "22"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/07%20-%20Mortlake%20%28Dead%20Water%29.flac",
+                    "duration": "131453",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "23"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/16%20-%20Rob%20Zombie%20-%20%20Pussy%20Liquor.mp3",
+                    "title": "Pussy Liquor",
+                    "creator": "Rob Zombie",
+                    "album": "Past, Present & Future",
+                    "trackNum": "16",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Rob%20Zombie/Past%2C%20Present%20%26%20Future/art",
+                    "duration": "286746",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "24"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/14%20-%20The%20Ballad%20Of%20Solomon%20Eagle%20%28Demo%29.flac",
+                    "duration": "324000",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "25"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Cloud%20Factory%20%282014%29/02.%20A%20Plus%20or%20a%20Minus.mp3",
+                    "title": "A Plus or a Minus",
+                    "creator": "Jinjer",
+                    "album": "Cloud Factory",
+                    "trackNum": "2",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Jinjer/Cloud%20Factory/art.jpg",
+                    "duration": "274060",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "26"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/06%20-%20mostly-sorrow.mp3",
+                    "title": "Mostly Sorrow",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "6",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "112439",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "27"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/05%20-%20Hot%20Knives%20And%20Open%20Sores.flac",
+                    "duration": "261866",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "28"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/10%20-%20The%20Ballad%20Of%20Solomon%20Eagle%20%28Live%2C%20Radio%20One%20Rock%20Show%29.flac",
+                    "duration": "303053",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "29"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/22%20-%20Hot%20Magic%2C%20Red%20Planet%20%28Live%29.flac",
+                    "duration": "241293",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "30"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/04%20-%20personalita-autoritaria.mp3",
+                    "title": "Personalita' Autoritaria",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "4",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "117454",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "31"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/398%20Sweet%20Home%20Alabama.mp3",
+                    "title": "Sweet Home Alabama",
+                    "creator": "Lynyrd Skynyrd",
+                    "album": "Rolling Stone Magazine's 500 Greatest Songs Of All Time",
+                    "trackNum": "398",
+                    "annotation": "http://www.rollingstone.com/news/story/6596243/sweet_home_alabama",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Lynyrd%20Skynyrd/Rolling%20Stone%20Magazine%27s%20500%20Greatest%20Songs%20Of%20All%20Time/art.jpg",
+                    "duration": "285365",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "32"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/06%20-%20Hounds%20Ditch.flac",
+                    "duration": "330826",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "33"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/20%20-%20Getting%20High%20On%20The%20Bad%20Times%20%28Live%29.flac",
+                    "duration": "257760",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "34"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/07-dance_with_the_dead-near_dark.mp3",
+                    "title": "Near Dark",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "7",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "279304",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "35"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/01%20-%20The%20Ballad%20Of%20Solomon%20Eagle.flac",
+                    "duration": "318893",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "36"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/01-dance_with_the_dead-invader.mp3",
+                    "title": "Invader",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "1",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "274343",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "37"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/09-dance_with_the_dead-graveyard_shift.mp3",
+                    "title": "Graveyard Shift",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "9",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "217211",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "38"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/08%20-%20They%20Come%20Back%20%28Harvest%20Of%20Skulls%29.flac",
+                    "duration": "284520",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "39"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/06-dance_with_the_dead-eye_of_the_storm.mp3",
+                    "title": "Eye Of The Storm",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "6",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "267157",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "40"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/02%20-%20those-countries-of-yours.mp3",
+                    "title": "Those Countries Of Yours",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "2",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "142819",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "41"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/05-dance_with_the_dead-andromeda.mp3",
+                    "title": "Andromeda",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "5",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "300071",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "42"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/19%20-%20Quincy%20The%20Pig%20Boy%20%28Live%29.flac",
+                    "duration": "246066",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "43"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/Dance%20With%20The%20Dead/dance_with_the_dead-2014-near_dark-flac/03-dance_with_the_dead-waves.mp3",
+                    "title": "Waves",
+                    "creator": "Dance With The Dead",
+                    "album": "Near Dark",
+                    "trackNum": "3",
+                    "annotation": "http://www.israbox.com",
+                    "image": "file:///home/phase/.cache/vlc/art/artistalbum/Dance%20With%20The%20Dead/Near%20Dark/art.jpg",
+                    "duration": "270788",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "44"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/17%20-%20Intro%20%28Live%29.flac",
+                    "duration": "52626",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "45"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/01%20-%20white-male-privilege.mp3",
+                    "title": "White Male Privilege",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "1",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "124456",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "46"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/03%20-%20sexist-looks.mp3",
+                    "title": "Sexist Looks",
+                    "creator": "MatraK AttakK",
+                    "album": "White Male Privilege, split LP 2019 with Pakt",
+                    "trackNum": "3",
+                    "image": "file:///home/phase/Music/matrak-attakk/white-male-privilege-split-lp-2019-with-pakt/cover.jpg",
+                    "duration": "140207",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "47"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/27%20-%20Scorpionica%20%28Live%29.flac",
+                    "duration": "225360",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "48"
+                    }
+                },
+                {
+                    "location": "file:///home/phase/Music/2021%20-%20Healing%20Through%20Fire/13%20-%20Blue%20Snow%20%28Live%2C%20Radio%20One%20Rock%20Show%29.flac",
+                    "duration": "244720",
+                    "extension": {
+                        "@application": "http://www.videolan.org/vlc/playlist/0",
+                        "vlc:id": "49"
+                    }
+                }
+            ]
+        },
+        "extension": {
+            "@application": "http://www.videolan.org/vlc/playlist/0",
+            "vlc:item": [
+                {
+                    "@tid": "0"
+                },
+                {
+                    "@tid": "1"
+                },
+                {
+                    "@tid": "2"
+                },
+                {
+                    "@tid": "3"
+                },
+                {
+                    "@tid": "4"
+                },
+                {
+                    "@tid": "5"
+                },
+                {
+                    "@tid": "6"
+                },
+                {
+                    "@tid": "7"
+                },
+                {
+                    "@tid": "8"
+                },
+                {
+                    "@tid": "9"
+                },
+                {
+                    "@tid": "10"
+                },
+                {
+                    "@tid": "11"
+                },
+                {
+                    "@tid": "12"
+                },
+                {
+                    "@tid": "13"
+                },
+                {
+                    "@tid": "14"
+                },
+                {
+                    "@tid": "15"
+                },
+                {
+                    "@tid": "16"
+                },
+                {
+                    "@tid": "17"
+                },
+                {
+                    "@tid": "18"
+                },
+                {
+                    "@tid": "19"
+                },
+                {
+                    "@tid": "20"
+                },
+                {
+                    "@tid": "21"
+                },
+                {
+                    "@tid": "22"
+                },
+                {
+                    "@tid": "23"
+                },
+                {
+                    "@tid": "24"
+                },
+                {
+                    "@tid": "25"
+                },
+                {
+                    "@tid": "26"
+                },
+                {
+                    "@tid": "27"
+                },
+                {
+                    "@tid": "28"
+                },
+                {
+                    "@tid": "29"
+                },
+                {
+                    "@tid": "30"
+                },
+                {
+                    "@tid": "31"
+                },
+                {
+                    "@tid": "32"
+                },
+                {
+                    "@tid": "33"
+                },
+                {
+                    "@tid": "34"
+                },
+                {
+                    "@tid": "35"
+                },
+                {
+                    "@tid": "36"
+                },
+                {
+                    "@tid": "37"
+                },
+                {
+                    "@tid": "38"
+                },
+                {
+                    "@tid": "39"
+                },
+                {
+                    "@tid": "40"
+                },
+                {
+                    "@tid": "41"
+                },
+                {
+                    "@tid": "42"
+                },
+                {
+                    "@tid": "43"
+                },
+                {
+                    "@tid": "44"
+                },
+                {
+                    "@tid": "45"
+                },
+                {
+                    "@tid": "46"
+                },
+                {
+                    "@tid": "47"
+                },
+                {
+                    "@tid": "48"
+                },
+                {
+                    "@tid": "49"
+                }
+            ]
+        }
+    }
+}
